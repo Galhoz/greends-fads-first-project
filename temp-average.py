@@ -1,0 +1,1 @@
+print('Average calculation here')
