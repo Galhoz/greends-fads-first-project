@@ -1,1 +1,10 @@
-Temperature data log
+5.1
+The command cp ../temp-* . copies all files whose names start with "temp-" from the parent directory (..) to the current directory (.).
+
+5.2
+We did not need to use git init because the repository was already created when we cloned it from GitHub. The .git directory already exists in the cloned repository.
+
+5.3
+To commit the copied files, I needed to:
+1. Add the files to the staging area using git add.
+2. Create a commit using git commit with a commit message.
